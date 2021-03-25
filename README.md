@@ -1,2 +1,2 @@
-# chat42OCDLC.github.io
-Chat 42 Osvaldo Cruz De La Cruz
+# rickchat
+Ejemplo de un chat y acceso a Firebase (Firestore con Google)
